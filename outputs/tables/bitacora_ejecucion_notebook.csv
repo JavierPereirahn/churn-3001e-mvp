@@ -1,0 +1,12 @@
+artefacto,ruta,existe
+dataset_limpio.csv,C:\Users\Javier\Downloads\EF4\churn-3001e-mvp\data\processed\dataset_limpio.csv,True
+dataset_modelado.csv,C:\Users\Javier\Downloads\EF4\churn-3001e-mvp\data\processed\dataset_modelado.csv,True
+diccionario_variables.csv,C:\Users\Javier\Downloads\EF4\churn-3001e-mvp\data\processed\diccionario_variables.csv,True
+top10_clientes_riesgo.csv,C:\Users\Javier\Downloads\EF4\churn-3001e-mvp\data\exports\top10_clientes_riesgo.csv,True
+top25_clientes_riesgo.csv,C:\Users\Javier\Downloads\EF4\churn-3001e-mvp\data\exports\top25_clientes_riesgo.csv,True
+top10_clientes_riesgo.xlsx,C:\Users\Javier\Downloads\EF4\churn-3001e-mvp\data\exports\top10_clientes_riesgo.xlsx,True
+top25_clientes_riesgo.xlsx,C:\Users\Javier\Downloads\EF4\churn-3001e-mvp\data\exports\top25_clientes_riesgo.xlsx,True
+shap_summary.png,C:\Users\Javier\Downloads\EF4\churn-3001e-mvp\outputs\figures\shap_summary.png,True
+shap_bar.png,C:\Users\Javier\Downloads\EF4\churn-3001e-mvp\outputs\figures\shap_bar.png,True
+modelo_random_forest.pkl,C:\Users\Javier\Downloads\EF4\churn-3001e-mvp\outputs\models\modelo_random_forest.pkl,True
+preprocessor_pipeline.pkl,C:\Users\Javier\Downloads\EF4\churn-3001e-mvp\outputs\models\preprocessor_pipeline.pkl,True

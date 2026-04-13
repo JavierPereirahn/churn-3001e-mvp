@@ -1,0 +1,13 @@
+criterio,cumple
+Se generó dataset limpio,Sí
+Se generó dataset modelado,Sí
+Se documentó calidad de datos,Sí
+Se calculó Recall@10,Sí
+Se calculó Recall@25,Sí
+Se ejecutó validación cruzada,Sí
+Se generó explicación SHAP global,Sí
+Se generó ranking top-10 exportable,Sí
+Se generó ranking top-25 exportable,Sí
+El modelo mejora >=10% en Recall@10,Sí
+El modelo mejora >=10% en Recall@25,Sí
+La precisión no empeora en top-N,Sí

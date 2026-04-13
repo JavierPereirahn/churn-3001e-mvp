@@ -1,0 +1,46 @@
+feature_original,feature_es
+num__SeniorCitizen,Adulto mayor
+num__tenure,Antigüedad
+num__MonthlyCharges,Cargo mensual
+num__TotalCharges,Cargo acumulado
+cat__gender_Female,Género: femenino
+cat__gender_Male,Género: masculino
+cat__Partner_No,Tiene pareja: no
+cat__Partner_Yes,Tiene pareja: sí
+cat__Dependents_No,Tiene dependientes: no
+cat__Dependents_Yes,Tiene dependientes: sí
+cat__PhoneService_No,Servicio telefónico: no
+cat__PhoneService_Yes,Servicio telefónico: sí
+cat__MultipleLines_No,Líneas múltiples: no
+cat__MultipleLines_No phone service,Líneas múltiples: sin servicio telefónico
+cat__MultipleLines_Yes,Líneas múltiples: sí
+cat__InternetService_DSL,Servicio de internet: DSL
+cat__InternetService_Fiber optic,Servicio de internet: fibra óptica
+cat__InternetService_No,Servicio de internet: no
+cat__OnlineSecurity_No,Seguridad en línea: no
+cat__OnlineSecurity_No internet service,Seguridad en línea: sin servicio de internet
+cat__OnlineSecurity_Yes,Seguridad en línea: sí
+cat__OnlineBackup_No,Respaldo en línea: no
+cat__OnlineBackup_No internet service,Respaldo en línea: sin servicio de internet
+cat__OnlineBackup_Yes,Respaldo en línea: sí
+cat__DeviceProtection_No,Protección del dispositivo: no
+cat__DeviceProtection_No internet service,Protección del dispositivo: sin servicio de internet
+cat__DeviceProtection_Yes,Protección del dispositivo: sí
+cat__TechSupport_No,Soporte técnico: no
+cat__TechSupport_No internet service,Soporte técnico: sin servicio de internet
+cat__TechSupport_Yes,Soporte técnico: sí
+cat__StreamingTV_No,Streaming TV: no
+cat__StreamingTV_No internet service,Streaming TV: sin servicio de internet
+cat__StreamingTV_Yes,Streaming TV: sí
+cat__StreamingMovies_No,Streaming de películas: no
+cat__StreamingMovies_No internet service,Streaming de películas: sin servicio de internet
+cat__StreamingMovies_Yes,Streaming de películas: sí
+cat__Contract_Month-to-month,Tipo de contrato: mes a mes
+cat__Contract_One year,Tipo de contrato: un año
+cat__Contract_Two year,Tipo de contrato: dos años
+cat__PaperlessBilling_No,Facturación sin papel: no
+cat__PaperlessBilling_Yes,Facturación sin papel: sí
+cat__PaymentMethod_Bank transfer (automatic),Método de pago: transferencia bancaria automática
+cat__PaymentMethod_Credit card (automatic),Método de pago: tarjeta de crédito automática
+cat__PaymentMethod_Electronic check,Método de pago: cheque electrónico
+cat__PaymentMethod_Mailed check,Método de pago: cheque por correo
